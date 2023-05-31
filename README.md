@@ -5,7 +5,7 @@
   <tbody>
     <tr valign="top">
       <td width="10%">
-  <h1> 𝗜'𝗺 Narayanan | Bounty Hunter <img src="https://raw.githubusercontent.com/Narayanan-info/Narayanan-info/main/g1.gif" width="100" height="50">
+  <h1> 𝗜'𝗺 Narayanan | Hacker <img src="https://raw.githubusercontent.com/Narayanan-info/Narayanan-info/main/g1.gif" width="100" height="50">
        </h1>
 - 🔭 I’m currently working on Bug Bounty Hunter <br>
 - 🌱 I’m currently learning CEH | C-CPET <br>
