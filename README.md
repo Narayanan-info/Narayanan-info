@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Narayanan-info/Narayanan-info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="50%">
+  <h1> 𝗜'𝗺 Narayanan <img src="" width="50"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Bug Bounty Hunter
+- 🌱 I’m currently learning CEH | C-CPET
+- 👯 I’m looking to collaborate on Bug Bounty Hunting
+- 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
