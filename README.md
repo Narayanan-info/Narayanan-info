@@ -1,6 +1,6 @@
 <!-- Typing Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BA9FC&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Narayanan;DevSecOps+Analyst+%7C+Security+Engineer;Cloud+%26+Application+Security+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BA9FC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Narayanan;DevSecOps+Analyst+%7C+Security+Engineer;Cloud+%26+Application+Security+Expert" alt="Typing SVG" />
 </div>
 
 <!-- Title -->
